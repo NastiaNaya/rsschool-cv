@@ -11,5 +11,3 @@
 ### Programming experience is short:
 #### - Have some experience in programming in JS
 #### - Start solving problems on the codewars portal
-=======
-###### results in programming: solving the problem on codewars for registration
